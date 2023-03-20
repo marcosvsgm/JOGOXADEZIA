@@ -1,0 +1,21 @@
+Coletar dados: você precisará coletar imagens de tabuleiros de xadrez e suas representações em
+formato de matriz. É importante que as imagens sejam de alta qualidade e variem em termos de
+posição das peças e iluminação.
+
+Pré-processar os dados: antes de treinar a rede neural, é necessário pré-processar os dados.
+Isso pode incluir a normalização das imagens, redimensionamento das imagens para um tamanho
+padrão e transformação das representações em formato de matriz para um formato mais adequado
+para a rede neural.
+
+Treinar a rede neural: você pode usar uma rede neural convolucional (CNN) para treinar a rede
+de interpretação do tabuleiro de xadrez. A CNN pode ser treinada usando um conjunto de dados
+ notados. Durante o treinamento, a rede aprenderá a extrair recursos importantes das imagens
+e correlacioná-los com as representações em formato de matriz.
+
+Validar a rede neural: após o treinamento, você precisará validar a rede neural para verificar
+se ela está funcionando corretamente. Você pode usar um conjunto de dados de validação para testar
+a precisão da rede neural.
+
+Usar a rede neural: uma vez treinada e validada, a rede neural pode ser usada para interpretar 
+novas imagens de tabuleiros de xadrez. A rede neural produzirá uma representação em formato de 
+matriz correspondente à imagem do tabuleiro de xadrez.
